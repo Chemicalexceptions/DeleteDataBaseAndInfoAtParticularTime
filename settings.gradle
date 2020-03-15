@@ -1,0 +1,2 @@
+rootProject.name='DeleteDataBaseAndInfoAtParticularTime'
+include ':app'
